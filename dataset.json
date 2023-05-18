@@ -1,0 +1,99 @@
+{"prompt": "Overjoyed with the new iPhone! ->", "completion": "positive"}
+{"prompt": "Excited to start my new adventure! ->", "completion": "positive"}
+{"prompt": "Absolutely loving the sunshine today! ->", "completion": "positive"}
+{"prompt": "Just had the most delicious meal ever! ->", "completion": "positive"}
+{"prompt": "Feeling grateful for my amazing friends! ->", "completion": "positive"}
+{"prompt": "Thrilled to receive an unexpected gift! ->", "completion": "positive"}
+{"prompt": "Proud of my team for winning the championship! ->", "completion": "positive"}
+{"prompt": "Happy to spend quality time with loved ones! ->", "completion": "positive"}
+{"prompt": "Delighted by the beautiful scenery! ->", "completion": "positive"}
+{"prompt": "Eager to learn new skills and grow! ->", "completion": "positive"}
+{"prompt": "Disappointed with the poor customer service ->", "completion": "negative"}
+{"prompt": "Frustrated with the constant traffic jams ->", "completion": "negative"}
+{"prompt": "Angry about the unfair treatment ->", "completion": "negative"}
+{"prompt": "Sad to hear about the tragic news ->", "completion": "negative"}
+{"prompt": "Annoyed by the loud noises next door ->", "completion": "negative"}
+{"prompt": "Upset with the unexpected turn of events ->", "completion": "negative"}
+{"prompt": "Worried about the uncertain future ->", "completion": "negative"}
+{"prompt": "Stressed out with the overwhelming workload ->", "completion": "negative"}
+{"prompt": "Anxious about the upcoming exam ->", "completion": "negative"}
+{"prompt": "Hurt by the hurtful comments ->", "completion": "negative"}
+{"prompt": "Neutral about the latest movie release ->", "completion": "neutral"}
+{"prompt": "Indifferent towards the new fashion trend ->", "completion": "neutral"}
+{"prompt": "Unsure about what to do next ->", "completion": "neutral"}
+{"prompt": "Neither happy nor sad about the news ->", "completion": "neutral"}
+{"prompt": "No strong opinion on the political issue ->", "completion": "neutral"}
+{"prompt": "Neither excited nor disappointed with the outcome ->", "completion": "neutral"}
+{"prompt": "No particular feeling towards the new restaurant ->", "completion": "neutral"}
+{"prompt": "Neither thrilled nor upset about the change ->", "completion": "neutral"}
+{"prompt": "No strong emotion towards the recent development ->", "completion": "neutral"}
+{"prompt": "Neutral about the recent sports event ->", "completion": "neutral"}
+{"prompt": "Overjoyed by the good news I received! ->", "completion": "positive"}
+{"prompt": "Thrilled to be going on vacation soon! ->", "completion": "positive"}
+{"prompt": "Excited for the upcoming concert! ->", "completion": "positive"}
+{"prompt": "Delighted to see my favorite band live! ->", "completion": "positive"}
+{"prompt": "Grateful for the support I've received ->", "completion": "positive"}
+{"prompt": "Happy to see my hard work paying off! ->", "completion": "positive"}
+{"prompt": "Content with the simple pleasures of life ->", "completion": "positive"}
+{"prompt": "Enjoying a peaceful evening by the beach ->", "completion": "positive"}
+{"prompt": "Feeling accomplished after a productive day ->", "completion": "positive"}
+{"prompt": "Pleased with the progress I've made ->", "completion": "positive"}
+{"prompt": "Upset about the constant delays ->", "completion": "negative"}
+{"prompt": "Angry at the unfair treatment I received ->", "completion": "negative"}
+{"prompt": "Frustrated by the lack of communication ->", "completion": "negative"}
+{"prompt": "Disappointed with the poor quality product ->", "completion": "negative"}
+{"prompt": "Sad about the loss of a loved one ->", "completion": "negative"}
+{"prompt": "Annoyed by the incessant noise pollution ->", "completion": "negative"}
+{"prompt": "Worried about the uncertain future ->", "completion": "negative"}
+{"prompt": "Stressed out by the demanding workload ->", "completion": "negative"}
+{"prompt": "Feeling anxious about the upcoming presentation ->", "completion": "negative"}
+{"prompt": "Hurt by the betrayal of a close friend ->", "completion": "negative"}
+{"prompt": "Neutral about the latest technological advancement ->", "completion": "neutral"}
+{"prompt": "Indifferent towards the recent political debate ->", "completion": "neutral"}
+{"prompt": "Unsure about the best course of action ->", "completion": "neutral"}
+{"prompt": "Neither happy nor sad about the weather today ->", "completion": "neutral"}
+{"prompt": "No strong opinion on the current fashion trends ->", "completion": "neutral"}
+{"prompt": "Neither excited nor disappointed with the outcome ->", "completion": "neutral"}
+{"prompt": "No particular feeling towards the new book release ->", "completion": "neutral"}
+{"prompt": "Neither thrilled nor upset about the decision ->", "completion": "neutral"}
+{"prompt": "No strong emotion towards the recent development ->", "completion": "neutral"}
+{"prompt": "Neutral about the latest scientific discovery ->", "completion": "neutral"}
+{"prompt": "Thrilled to meet my favorite author in person! ->", "completion": "positive"}
+{"prompt": "Ecstatic about the job promotion I received! ->", "completion": "positive"}
+{"prompt": "Overjoyed by the surprise birthday party! ->", "completion": "positive"}
+{"prompt": "Feeling blessed for the opportunities I have ->", "completion": "positive"}
+{"prompt": "Happy to reunite with old friends! ->", "completion": "positive"}
+{"prompt": "Excited for the new season of my favorite show! ->", "completion": "positive"}
+{"prompt": "Satisfied with the delicious home-cooked meal ->", "completion": "positive"}
+{"prompt": "Elated by the success of my recent project! ->", "completion": "positive"}
+{"prompt": "Enjoying the beauty of nature on a hike ->", "completion": "positive"}
+{"prompt": "Relieved to finish a challenging task ->", "completion": "positive"}
+{"prompt": "Annoyed by the constant interruptions ->", "completion": "negative"}
+{"prompt": "Frustrated with the slow progress ->", "completion": "negative"}
+{"prompt": "Angry about the rude behavior I encountered ->", "completion": "negative"}
+{"prompt": "Feeling down after a series of setbacks ->", "completion": "negative"}
+{"prompt": "Heartbroken by the loss of a beloved pet ->", "completion": "negative"}
+{"prompt": "Anxious about the upcoming deadline ->", "completion": "negative"}
+{"prompt": "Stressed out with the financial burden ->", "completion": "negative"}
+{"prompt": "Displeased with the poor customer service ->", "completion": "negative"}
+{"prompt": "Furious about the unfair treatment ->", "completion": "negative"}
+{"prompt": "Neutral about the latest fashion trends ->", "completion": "neutral"}
+{"prompt": "Indifferent towards the recent political news ->", "completion": "neutral"}
+{"prompt": "Undecided about the next career move ->", "completion": "neutral"}
+{"prompt": "No strong opinion on the recent social issue ->", "completion": "neutral"}
+{"prompt": "Neither excited nor disappointed with the results ->", "completion": "neutral"}
+{"prompt": "No particular feeling towards the new gadget ->", "completion": "neutral"}
+{"prompt": "Neither thrilled nor upset about the decision ->", "completion": "neutral"}
+{"prompt": "No strong emotion towards the recent change ->", "completion": "neutral"}
+{"prompt": "Neutral about the latest scientific research ->", "completion": "neutral"}
+{"prompt": "Undecided about the vacation destination ->", "completion": "neutral"}
+{"prompt": "Excited for the weekend getaway with friends! ->", "completion": "positive"}
+{"prompt": "Overjoyed with the success of my art exhibition! ->", "completion": "positive"}
+{"prompt": "Feeling grateful for the support of my family ->", "completion": "positive"}
+{"prompt": "Happy to see the progress in my fitness journey! ->", "completion": "positive"}
+{"prompt": "Thrilled to try out a new adventure sport! ->", "completion": "positive"}
+{"prompt": "Disappointed with the service at the restaurant ->", "completion": "negative"}
+{"prompt": "Frustrated by the constant technical issues ->", "completion": "negative"}
+{"prompt": "Annoyed with the noisy neighbors ->", "completion": "negative"}
+{"prompt": "Sad about the loss of a close friendship ->", "completion": "negative"}
+{"prompt": "Angry at the unfair treatment in the workplace ->", "completion": "negative"}
